@@ -1,9 +1,9 @@
 package Exam04;
 
 public class TempEmployee extends Employee {
-//	String empno; // ªÁπ¯
-//	String name; // ¿Ã∏ß
-//	int pay; // ø¨∫¿
+//	String empno; // ÏÇ¨Î≤à
+//	String name; // Ïù¥Î¶Ñ
+//	int pay; // Ïó∞Î¥â
 
 	public TempEmployee(String empno, String name, int pay) {
 		super(empno, name, pay);
