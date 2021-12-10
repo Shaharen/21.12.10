@@ -1,10 +1,10 @@
 package Exam04;
 
 public class Manager extends Employee {
-//	String empno;// »ç¹ø
-//	String name;// ÀÌ¸§
-//	int pay;// ¿¬ºÀ
-	int bonus; // º¸³Ê½º
+//	String empno;// ì‚¬ë²ˆ
+//	String name;// ì´ë¦„
+//	int pay;// ì—°ë´‰
+	int bonus; // ë³´ë„ˆìŠ¤
 
 	public Manager(String empno, String name, int pay, int bonus) {
 		super(empno, name, pay);
